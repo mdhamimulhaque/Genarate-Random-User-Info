@@ -1,0 +1,30 @@
+
+body{
+    background-color:tomato;
+}
+.img-box img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    border: 3px solid grey;
+}
+
+.col-md-8{
+     background-color: rgba(133, 117, 115, 0.466); 
+    margin-top: 5%;
+    padding: 15px;
+}
+span{
+    color:ghostwhite
+}
+button{
+   
+    float: right;
+    /* box-shadow: -1px 0px 1px 3px grey; */
+    margin-top: 15px;
+    border: 2px solid #fff;
+}
+button:hover{
+    background:crimson !important;
+    color:#fff !important
+}
